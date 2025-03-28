@@ -1,6 +1,6 @@
 # Silent-Comms-go
 
-เว็บแอปพลิเคชันส่งข้อความแบบไม่ระบุตัวตน ใช้เทคโนโลยี Go สำหรับ Backend และ HTML/CSS/JavaScript สำหรับ Frontend
+เว็บแอปพลิเคชันส่งข้อความแบบไม่ระบุตัวตน ใช้ Go สำหรับ Backend และ HTML/CSS/JavaScript สำหรับ Frontend
 
 ## สิ่งที่ต้องใช้
 
